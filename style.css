@@ -1,0 +1,76 @@
+* {
+  margin:0;
+}
+html{
+
+  background-image: linear-gradient(to bottom right,#fff0f0,#f77171, #d94848, #490901 100%);
+  
+}
+Body {
+}
+
+u {
+  color: black;
+  font-size: bolder;
+}
+
+.status {
+  color: whitesmoke;
+  background-color: #880000;
+  padding: 15px;
+  border-radius: 15px;
+}
+/* .table-data tr td {
+  background-color: yellow;
+} */
+
+
+#list1 {
+  background: black;
+  border-bottom: 100px;
+}
+
+.card-body {
+  border-radius: 15px;
+  border: 1px solid black;
+  background: black;
+}
+
+.card-body button {
+  padding: 5px;
+  margin-top: 5px;
+}
+
+.card-body i {
+  padding: 10px;
+  font-size: 2rem;;
+}
+
+.form-control {
+  margin-top: 5px;
+  
+}
+
+
+h1 i {
+  color: black;
+}
+h1 {
+  position: relative;
+  top: 60px;
+  text-shadow: 0 0 3px #115dd9;
+}
+#h2{
+  position:fixed-bottom;
+}
+
+.fa-calendar-alt {
+  color: white;
+}
+
+/* Today section */
+
+.rwd-table {
+  color: gray;
+  font-size: ;
+}
